@@ -24,4 +24,14 @@ public class Theroms {
 		System.out.println(" Brand" + brand);
 		System.out.println("Liquid"+liquid);
 	}
+	
+	public void pour() {
+		String liquid= null;
+		capacity= 0;
+	}
+	
+	public static void  main(String[] args)
+	{
+		
+	}
 }
